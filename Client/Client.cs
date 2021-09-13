@@ -14,7 +14,7 @@ namespace Client
             _username = username;
         }
 
-        
+        //TODO: finish the class
 
     }
 }
